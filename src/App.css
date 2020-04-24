@@ -1,0 +1,11 @@
+
+
+.app {
+  height: 100vh;
+  background: gray;
+  padding: 5% 10%;
+}
+
+.appTitle {
+  font-style: italic;
+}

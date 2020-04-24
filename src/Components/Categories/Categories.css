@@ -1,0 +1,26 @@
+.mainCategory {
+  height: 100xp;
+}
+.catergories {
+  width: 35%;
+  height: 100%;
+}
+
+#input-category {
+  width: 70%;
+  height: 100%;
+  color: blue;
+}
+
+.btn {
+  height: 80%;
+}
+
+#btn-add-categ {
+  background: coral;
+  width: 20%;
+}
+
+.inputCategory {
+
+}
