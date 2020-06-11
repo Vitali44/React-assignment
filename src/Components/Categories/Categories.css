@@ -1,24 +1,31 @@
-.mainCategory {
-  height: 100xp;
+.listOfCategory{
+  width: 40%;
 }
+
+.inputCategory{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5rem 1rem;
+  border: 1px solid rgb(0, 108, 134);
+  border-radius: 4px;
+  margin-bottom: .5rem;
+  width: 100%;
+}
+/* 
 .catergories {
   width: 35%;
   height: 100%;
-}
+}  */
 
 #input-category {
-  width: 70%;
-  height: 100%;
   color: blue;
 }
+/* 
+.listitem {
+  width: 100%;
+} */
 
-.btn {
-  height: 80%;
-}
 
-#btn-add-categ {
-  background: coral;
-  width: 20%;
-}
 
 
